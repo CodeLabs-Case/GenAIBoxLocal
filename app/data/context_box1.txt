@@ -1,0 +1,168 @@
+Terms and Conditions
+
+Effective Date: 2023-06-23
+
+Welcome to Horizon Systems! Please read these Terms and Conditions carefully before using our services. These Terms and Conditions ("Agreement") govern your access to and use of Horizon Systems's website, applications, products, and services (collectively referred to as the "Services"). By accessing or using the Services, you agree to be bound by this Agreement. If you do not agree with any part of this Agreement, please refrain from using our Services.
+
+Section 1: General Terms
+
+1.1 Acceptance of Terms
+By accessing or using our Services, you acknowledge and agree to be bound by these Terms and Conditions. Your continued use of the Services constitutes your acceptance of any modifications or updates to these Terms and Conditions.
+
+1.2 Modification of Terms
+We reserve the right to modify or update these Terms and Conditions at any time. Any changes will be effective immediately upon posting on our website or notifying you through other means. It is your responsibility to review these Terms and Conditions periodically to stay informed about any modifications.
+
+1.3 Eligibility
+To use our Services, you must be at least [minimum age requirement] years old and possess the legal authority to enter into this Agreement. By accessing or using our Services, you represent and warrant that you meet these eligibility requirements.
+
+1.4 Account Registration
+In order to access certain features or areas of our Services, you may need to create an account. You agree to provide accurate and complete information during the registration process and to update your information promptly if there are any changes. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+1.5 Account Security
+You are responsible for maintaining the security of your account and for any actions taken under your account. You agree to notify us immediately of any unauthorized access or use of your account. We reserve the right to suspend or terminate your account if we suspect any unauthorized activity.
+
+1.6 User Responsibilities
+You agree to use our Services in compliance with all applicable laws, regulations, and these Terms and Conditions. You are solely responsible for your use of the Services and any content or materials you upload, post, or transmit through the Services.
+
+1.7 Intellectual Property Rights
+All intellectual property rights in the Services, including but not limited to copyrights, trademarks, and patents, belong to Horizon Systems or its licensors. You agree not to use, copy, reproduce, modify, or distribute any content from the Services unless you have obtained explicit permission from the respective rights holders.
+
+1.8 Prohibited Conduct
+You agree not to engage in any conduct that violates these Terms and Conditions or any applicable laws or regulations. Prohibited conduct includes, but is not limited to, the following: unauthorized access to the Services, interference with the proper functioning of the Services, transmission of viruses or harmful code, and infringement of third-party rights.
+
+1.9 Third-Party Links and Content
+Our Services may contain links to third-party websites, applications, or content that are not owned or controlled by Horizon Systems. We are not responsible for the content, privacy policies, or practices of any third-party websites or services. Your interactions with third-party websites are solely between you and the third party.
+
+1.10 Termination
+We reserve the right to suspend or terminate your access to the Services at any time and for any reason, including but not limited to violations of these Terms and Conditions. Upon termination, your right to use the Services will cease, and you must cease all use of the Services and delete any downloaded or stored materials.
+
+Section 2: User Content
+
+2.1 User Content Ownership
+You retain ownership of any content, including text, images, videos, or any other materials that you upload, post, or transmit through our Services. By sharing your content, you grant Horizon Systems a non-exclusive, royalty-free, worldwide license to use, reproduce, modify, adapt, publish, translate, distribute, and display your content for the purpose of providing and promoting the Services.
+
+2.2 License Grant
+By submitting user content to our Services, you represent and warrant that you have the necessary rights and permissions to grant the license specified in Section 2.1. You agree that your content will not infringe upon the rights of any third party, including copyright, trademark, privacy, or publicity rights.
+
+2.3 Prohibited Content
+You agree not to upload, post, or transmit any content that is illegal, infringing, defamatory, obscene, offensive, or violates the rights of others. This includes, but is not limited to, content that promotes discrimination, violence, or hate speech. We reserve the right to remove or disable any user content that violates this provision.
+
+2.4 Content Moderation
+We may, but are not obligated to, monitor, moderate, or review user content submitted through our Services. While we strive to maintain the integrity of our platform, we do not guarantee the accuracy, completeness, or reliability of user content. You acknowledge that you may be exposed to user content that is inaccurate, offensive, or objectionable, and you agree to use our Services at your own risk.
+
+2.5 Copyright Infringement
+We respect the intellectual property rights of others and expect our users to do the same. If you believe that your copyrighted work has been infringed upon, please notify us in writing and provide the necessary information as outlined in our Copyright Infringement Policy. We will promptly investigate and take appropriate action in accordance with applicable laws and regulations.
+
+Section 3: Privacy and Data Protection
+
+3.1 Privacy Policy
+Our Privacy Policy outlines how we collect, use, store, and disclose your personal information when you use our Services. By using our Services, you acknowledge and agree to the terms of our Privacy Policy. We encourage you to review the Privacy Policy to understand how we protect your privacy and handle your personal data.
+
+3.2 Data Collection and Usage
+We may collect certain personal information from you when you use our Services, such as your name, email address, and demographic information. We use this information to provide and improve our Services, personalize your experience, and communicate with you. We may also collect non-personal information, such as device information and usage data, to analyze trends and enhance our Services.
+
+3.3 Cookies and Tracking Technologies
+We may use cookies, web beacons, and other tracking technologies to collect information about your usage of our Services. These technologies help us improve our Services, customize your experience, and provide targeted advertisements. You can manage your cookie preferences through your browser settings, but please note that disabling cookies may impact certain functionalities of our Services.
+
+3.4 Disclosure of Information
+We may disclose your personal information to third parties in certain circumstances, including when required by law, to protect our rights and property, or with your consent. We may also share aggregated or anonymized data that does not personally identify you for statistical or research purposes.
+
+3.5 Third-Party Service Providers
+We may engage third-party service providers to assist us in delivering and improving our Services. These providers may have access to your personal information but are bound by confidentiality obligations and are prohibited from using your information for any other purpose.
+
+3.6 Security Measures
+We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, or alteration. However, please note that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee the absolute security of your information.
+
+3.7 User Consent
+By using our Services, you consent to the collection, use, and disclosure of your personal information as described in this Section 3. You have the right to withdraw your consent at any time by contacting us, but please note that such withdrawal may limit your access to certain features or functionalities of our Services.
+
+Section 4: Payments and Billing
+
+4.1 Payment Terms
+When you make a payment for our Services, you agree to provide accurate and complete payment information. You authorize us or our third-party payment processors to charge the specified amount to your chosen payment method. We may use various payment methods, such as credit cards, electronic funds transfer, or other available options. You are responsible for any fees or charges imposed by your financial institution or payment provider.
+
+4.2 Subscription Services
+If you subscribe to any paid Services, you agree to the terms and pricing specified at the time of purchase. Your subscription will automatically renew according to the chosen billing cycle, unless you cancel it before the renewal date. You can manage your subscription settings through your account or by contacting our customer support.
+
+4.3 Refunds
+Refunds may be provided in accordance with our Refund Policy, which outlines the conditions and procedures for requesting a refund. We reserve the right to determine eligibility for refunds on a case-by-case basis. Refunds, if approved, will be issued using the original payment method or by other means determined by us.
+
+4.4 Price Changes
+We may modify the prices for our Services at any time. Any changes to pricing will be communicated to you in advance, and you will have the option to accept the new pricing or cancel your subscription. By continuing to use our Services after the price change takes effect, you accept the new pricing terms.
+
+4.5 Taxes
+You are responsible for paying any applicable taxes, duties, or similar charges associated with your use of our Services. The amount of tax may vary depending on your location and the applicable laws. We will calculate and collect any required taxes, where applicable, and remit them to the appropriate authorities in accordance with applicable tax laws and regulations.
+
+Section 5: Warranties and Disclaimers
+
+5.1 Disclaimer of Warranties
+Our Services are provided on an "as is" and "as available" basis, without any warranties or representations, express or implied. We do not warrant that our Services will be uninterrupted, error-free, or secure. We disclaim all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. You acknowledge that your use of our Services is at your own risk.
+
+5.2 Limitation of Liability
+To the maximum extent permitted by applicable law, Horizon Systems and its affiliates, directors, employees, agents, and licensors shall not be liable for any indirect, incidental, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or in connection with your use of our Services. In no event shall our total liability to you for all claims arising from or related to our Services exceed the amount paid by you, if any, for accessing or using our Services.
+
+5.3 Indemnification
+You agree to indemnify, defend, and hold Horizon Systems and its affiliates, directors, employees, agents, and licensors harmless from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorney's fees, arising out of or in connection with your use of our Services, your violation of these Terms and Conditions, or your violation of any applicable laws or regulations.
+
+Section 6: Governing Law and Dispute Resolution
+
+6.1 Governing Law
+These Terms and Conditions shall be governed by and construed in accordance with the laws of the United States. Any disputes arising from or relating to these Terms and Conditions or your use of our Services shall be subject to the exclusive jurisdiction of the courts located in the United States, and you hereby consent to the personal jurisdiction of such courts.
+
+6.2 Dispute Resolution
+In the event of any dispute or claim arising out of or in connection with these Terms and Conditions or your use of our Services, we encourage you to contact us first to attempt to resolve the matter amicably. If the dispute cannot be resolved informally, both parties agree to participate in good faith in a mediation or alternative dispute resolution (ADR) process before resorting to litigation.
+
+6.3 Arbitration
+If the dispute is not resolved through mediation or ADR, any unresolved controversy or claim arising out of or relating to these Terms and Conditions or your use of our Services shall be settled by binding arbitration in accordance with the rules of the Resolve Mediation and Arbitration Institute by a single arbitrator appointed in accordance with those rules. The arbitration shall be conducted in the United States and conducted in the English language. The decision of the arbitrator shall be final and binding on both parties.
+
+6.4 Class Action Waiver
+To the fullest extent permitted by applicable law, you and Horizon Systems waive any right to participate as a plaintiff or class member in any class action lawsuit, class-wide arbitration, or any other representative proceeding. The arbitrator shall not have the authority to consolidate the claims of multiple parties or preside over any form of representative or class proceeding.
+
+Section 7: Termination
+
+7.1 Termination by User
+You have the right to terminate your use of our Services at any time by discontinuing your access or by closing your account, if applicable. If you choose to terminate, you remain responsible for any outstanding obligations or fees incurred prior to termination. Upon termination, your access to our Services will be deactivated, and you may no longer be able to access or retrieve any data or content associated with your account.
+
+7.2 Termination by Horizon Systems
+We reserve the right to terminate or suspend your access to our Services, in whole or in part, at any time and for any reason, including but not limited to violations of these Terms and Conditions or any applicable laws or regulations. We may also suspend or terminate our Services in cases of unforeseen circumstances or technical difficulties. In such cases, we will make reasonable efforts to provide you with prior notice.
+
+7.3 Effect of Termination
+Upon termination, all rights and licenses granted to you under these Terms and Conditions will immediately cease. You acknowledge and agree that we shall not be liable to you or any third party for any termination of your access to our Services. Termination does not relieve you of any obligations or liabilities incurred prior to termination, including any payment obligations or responsibilities for user content.
+
+Section 8: Miscellaneous
+
+8.1 Entire Agreement
+These Terms and Conditions, together with any additional agreements or policies referenced herein, constitute the entire agreement between you and Horizon Systems regarding your use of our Services. These Terms and Conditions supersede any prior agreements, understandings, or representations, whether oral or written, relating to the subject matter herein.
+
+8.2 Severability
+If any provision of these Terms and Conditions is held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions shall not in any way be affected or impaired. The invalid, illegal, or unenforceable provision shall be deemed replaced by a valid, legal, and enforceable provision that comes closest to the original intent of the provision.
+
+8.3 Waiver
+The failure of Horizon Systems to enforce any right or provision of these Terms and Conditions shall not constitute a waiver of such right or provision. Any waiver of any provision of these Terms and Conditions will be effective only if it is in writing and signed by an authorized representative of Horizon Systems.
+
+8.4 Assignment
+You may not assign or transfer any rights or obligations under these Terms and Conditions without the prior written consent of Horizon Systems. Horizon Systems may assign or transfer its rights and obligations under these Terms and Conditions to any third party without restriction.
+
+8.5 Relationship of the Parties
+Nothing in these Terms and Conditions shall be construed as creating a partnership, joint venture, employment, or agency relationship between you and Horizon Systems. You agree that you are an independent contractor and have no authority to bind Horizon Systems in any manner.
+
+8.6 Force Majeure
+Horizon Systems shall not be liable for any failure or delay in the performance of its obligations under these Terms and Conditions due to acts beyond its reasonable control, including but not limited to acts of God, war, terrorism, natural disasters, labor disputes, or disruptions in internet services.
+
+8.7 Survival
+The provisions of these Terms and Conditions that by their nature should survive termination shall survive termination, including but not limited to Sections 2 (User Content), 3 (Privacy and Data Protection), 5 (Warranties and Disclaimers), 6 (Governing Law and Dispute Resolution), and 8 (Miscellaneous).
+
+8.8 Notices
+Any notices or communications required or permitted under these Terms and Conditions shall be in writing and delivered to the respective party's address as specified in your account information or as otherwise provided by you or Horizon Systems in writing.
+
+8.9 Interpretation
+The headings and titles in these Terms and Conditions are for convenience only and shall not affect the interpretation of the provisions. The word "including" shall be interpreted as "including without limitation" unless expressly stated otherwise.
+
+8.10 Headings
+The section and paragraph headings in these Terms and Conditions are inserted for convenience and reference only and shall not be deemed to define or limit the scope or intent of the provisions.
+
+8.11 Non-Waiver
+The failure of Horizon Systems to enforce any right or provision in these Terms and Conditions shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Horizon Systems in writing.
+
+8.12 No Agency
+No agency, partnership, joint venture, or employment relationship is created between you and Horizon Systems as a result of these Terms and Conditions or your use of the Services.

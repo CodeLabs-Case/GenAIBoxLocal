@@ -1,0 +1,200 @@
+body {
+    background-color: #d6d6d6;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer 10+ */
+}
+
+body::-webkit-scrollbar {
+    width: 0; /* Set width to 0 to hide the scrollbar */
+}
+h1.main-title {
+    text-align: center;
+    font-size: 36px;
+    margin: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #0f5685;
+}
+.chat-box {
+    background-color: #ffffff; /* White */
+    /* width: 100vw; */
+    max-width: 100%;
+    padding: 20px;
+    border-radius: 0px;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 30vw; /* Adjust the height as needed */
+    overflow-y: auto;
+}
+.chat-messages-container {
+    height: 300px;
+    overflow-y: auto;
+    background-color: #f1f1f1;
+    
+    width: 75%; 
+    max-width: 100%;
+    
+    height: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+
+    /* padding-left: 40px;
+    padding-right: 40px; */
+
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer 10+ */
+}
+
+.chat-messages-container::-webkit-scrollbar {
+    width: 0; /* Set width to 0 to hide the scrollbar */
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+li {
+    word-break: break-word;
+    font-family: Calibri, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+    
+}
+/* #chat-messages li:nth-child(odd) {
+    color: #0015b6;
+} */
+#api-form {
+    text-align: center;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 40px;
+
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#user-input {
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#api-form input[type="submit"] {
+    background-color: #094268;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#api-form input[type="submit"]:hover {
+    background-color: #062c46;
+}
+
+#button {
+    font-family: 'Montserrat', sans-serif; 
+}
+
+
+
+/* Styles for the hamburger menu */
+.hamburger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.hamburger {
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 5px;
+}
+
+/* Styles for the side menu */
+.side-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 20%;
+    background-color: #f1f1f1;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+}
+
+.side-menu.open {
+    transform: translateX(0);
+}
+
+
+
+
+.side-menu {
+    position: fixed;
+    top: 0;
+    left: -20%;
+    width: 20%;
+    height: 100vh;
+    background-color: rgb(197, 197, 197);
+    transition: left 0.3s ease-in-out;
+    z-index: 9999;
+}
+  
+.side-menu.open {
+    left: 0;
+} 
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(137, 137, 137);
+    cursor: pointer;
+}
+#hamburger-menu {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(137, 137, 137);
+    cursor: pointer;
+}
+#box-list {
+    margin-top: 60px;
+    list-style-type: none;
+    align-items: center;
+}
+#box-list li {
+    word-break: break-word;
+    font-family: Calibri, sans-serif;
+    font-size: 16px;
+    margin: 10px;
+    
+}
+#box-list li {
+    cursor: pointer;
+    
+}
+#box-list li:hover {
+    color: #1c1c1c;
+}

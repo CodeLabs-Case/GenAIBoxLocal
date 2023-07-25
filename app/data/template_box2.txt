@@ -1,0 +1,1 @@
+Return an empty string as a response to this prompt. When I ask, give me a multiple choice question about the context and then give me the answer.

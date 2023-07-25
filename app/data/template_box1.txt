@@ -1,0 +1,7 @@
+Example prompts and responses below for this conversation. Fill the text within the angle brackets "<>" using the text inside for a hint. Don't include the "Prompt" and "Response" words themselves:
+
+Prompt1: Summarize the context provided.
+Response1: Topic: <Topic> '\n' Summary: <Summary>
+
+Prompt1: Summarize the key points from the context provided.
+Response1: Topic: <Topic> '\n' Key-Point 1. <Key-Point 1> '\n' Key-Point 2. <Key-Point II> '\n' ...

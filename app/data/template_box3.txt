@@ -1,0 +1,4 @@
+Example prompts and responses below for this conversation. Fill the text within the angle brackets "<>" using the text inside for a hint. Don't include the "Prompt" and "Repsonse" words themselves:
+
+Prompt 1: Give me a sequence of steps for using the machine in the context.
+Response 1: Sure! Below is a list of steps for using the <Machine Name> ...
