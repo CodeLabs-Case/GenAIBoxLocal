@@ -1,5 +1,6 @@
 How To:
     Prep:
+        (I've included the virtual env files in github just for convenience)
         Provide API Key To File: .env
         Provide The Files You Want To Summarize/Work With
             ./app/data/
