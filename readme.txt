@@ -5,7 +5,6 @@ How To:
             ./app/data/
                 Templates
                 Context
-    
     Start:
         Start Virtual Environment
             Paste In Terminal: .\.venv\Scripts\Activate.ps1
