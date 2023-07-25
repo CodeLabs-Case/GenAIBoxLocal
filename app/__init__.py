@@ -4,6 +4,7 @@ import urllib.request
 import openai
 import os
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
 
 genaibox = Flask(__name__,static_url_path='/static')
 
