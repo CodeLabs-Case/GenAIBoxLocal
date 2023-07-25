@@ -1,6 +1,10 @@
 How To:
     Prep:
         Provide API Key To File: .env
+        Provide The Files You Want To Summarize/Work With
+            ./app/data/
+                Templates
+                Context
     
     Start:
         Start Virtual Environment
