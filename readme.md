@@ -1,11 +1,12 @@
 ## How To
 ### Prep
     (I've included the virtual env files in github just for convenience)
-    Provide API Key To File: .env
-    Provide The Files You Want To Summarize/Work With
-        ./app/data/
-            Templates
-            Context
+    You'll Provide
+        API Key and File: .env
+        The Files You Want To Summarize/Work With
+            ./app/data/
+                Templates
+                Context
 ### Start
     Start Virtual Environment
         Paste In Terminal: .\.venv\Scripts\Activate.ps1
