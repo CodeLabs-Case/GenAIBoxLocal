@@ -15,3 +15,7 @@
 ### Stop
     Stop Server: CTRL + C
     Exit Virt Env Command: deactivate
+
+
+![Alt text](cover_photo1.png)
+![Alt text](cover_photo2.png)
