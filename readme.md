@@ -1,5 +1,5 @@
 ## How To
-### Prep
+Prep
     (I've included the virtual env files in github just for convenience)
     You'll Provide
         API Key and File: .env
@@ -7,12 +7,12 @@
             ./app/data/
                 Templates
                 Context
-### Start
+Start
     Start Virtual Environment
         Paste In Terminal: .\.venv\Scripts\Activate.ps1
     Start Flask Server
         From Root Project Directory Run: flask run
-### Stop
+Stop
     Stop Server: CTRL + C
     Exit Virt Env Command: deactivate
 
