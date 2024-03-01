@@ -167,8 +167,12 @@ li {
     right: 10px;
     width: 30px;
     height: 30px;
-    background-color: rgb(137, 137, 137);
+    /* background-color: rgb(137, 137, 137); */
     cursor: pointer;
+}
+.close-button img {
+    max-width: 100%;
+    height: auto;
 }
 #hamburger-menu {
     position: fixed;
@@ -176,8 +180,12 @@ li {
     left: 20px;
     width: 40px;
     height: 40px;
-    background-color: rgb(137, 137, 137);
+    /* background-color: rgb(137, 137, 137); */
     cursor: pointer;
+}
+#hamburger-menu img {
+    max-width: 100%;
+    height: auto;
 }
 #box-list {
     margin-top: 60px;
