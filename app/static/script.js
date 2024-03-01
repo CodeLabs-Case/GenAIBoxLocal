@@ -10,6 +10,7 @@ function submitForm(event) {
     return false;
 }
 
+// main api call to send the contents of the user_input field to ChatGPT
 function makeAPICall(input) {
     fetch('/chat', {
         method: 'POST',
