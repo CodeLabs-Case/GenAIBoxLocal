@@ -1,7 +1,8 @@
 ## How To
 #### Prep
-    (I've included the virtual env files in github just for convenience)
-    You'll Provide
+    Clone to your local
+        (I've included the virtual env files in github just for convenience)
+    Provide
         API Key and File: .env
         The Files You Want To Summarize/Work With
             ./app/data/
@@ -16,6 +17,6 @@
     Stop Server: CTRL + C
     Exit Virt Env Command: deactivate
 
-
+## UI
 ![Alt text](cover_photo1.png)
 ![Alt text](cover_photo2.png)
